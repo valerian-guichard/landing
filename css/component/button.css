@@ -1,0 +1,23 @@
+@media(max-width: 900px){
+	.btn-blue {
+		padding: 5px;
+	}
+	.btn-blue:hover{
+		padding: 5px;
+	}
+}
+
+
+.btn-blue{
+	background-color: #001f46;
+	color: #F7F9FC;
+	padding: 10px 15px;
+	border-radius: 4px;
+}
+.btn-blue:hover{
+	background-color: #F7F9FC;
+	color: #001f46;
+	padding: 10px 15px;
+	border-radius: 4px;
+}
+
